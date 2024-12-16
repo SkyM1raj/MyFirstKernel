@@ -6,6 +6,7 @@ section .text
 
 global start
 extern kmain
+extern keyboard_handler_main ; fonction géant le clavier dans le kernel.c
 
 ;spécification Multiboot (Multiboot header) pour que GRUB puisse charger notre kernel
 ;GRUB charge le kernel en lisant le header multiboot en le chargant en mémoire  à une adresse prédéfinie
@@ -32,7 +33,7 @@ start:
 
 
 section .bss
-resb 8192               ; Alloue 8 Ko pour la pile,c'est selon la donc une taille typique pour un noyau minimal
+resb 8192               ; Alloue 8 Ko pour la pile,c'est selon la doc une taille typique pour un noyau minimal
 stack_space:
 
 read_port:

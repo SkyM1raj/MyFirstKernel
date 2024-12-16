@@ -58,4 +58,4 @@ fi
 
 # Étape 4 : Lancer QEMU avec le kernel
 echo "Lancement de QEMU..."
-qemu-system-i386 -kernel kernel.bin
+qemu-system-i386 -kernel kernel.bin 
