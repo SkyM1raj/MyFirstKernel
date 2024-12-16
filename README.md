@@ -162,10 +162,7 @@ Add support for other devices like a mouse or disks.
 
 I learned from the blogs written by Arjun Sreedharan, but the tutorials was destined to QWERTY keyboard, 
 I managed to do the mapping of the keyboard in AZERTY, because oui,oui baguette, croissant (T-T)...
-
----
-
-I'm inspired to write a series of blogs on how to write your own OS from scratch in a way that's easier to understand, somenthing like "OS for Dummies" and don't know i haven't thought a lot about it, so this project will surely be more developed in the future...
+I'm inspired to write a series of blogs on how to write your own OS from scratch in a way that's easier to understand, something like "OS for Dummies". I don't know i haven't thought a lot about it, so this project will surely be more developed in the future...
 
 ---
 
