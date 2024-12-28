@@ -158,7 +158,7 @@ Add support for other devices like a mouse or disks.
   - Kernels 201 - Let’s write a Kernel with keyboard and screen support
   - OSDev Wiki - Programmable Interrupt Controller
 
-### Special Note
+# Special Note
 
 I learned from the blogs written by Arjun Sreedharan, but the tutorials was destined to QWERTY keyboard, 
 I managed to do the mapping of the keyboard in AZERTY, because oui,oui baguette, croissant (T-T)...
